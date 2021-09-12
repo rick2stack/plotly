@@ -6,4 +6,4 @@ The purpose of this project is to create an interative website to visualize bact
 2. The second graph is a gauge type graph which shows the amount of times the volunteer washes their belly button a week. 
 3. The last graph shows the total amount of bacteria by each specific bacteria (OTU ID).
 ## Website 
-THe website can be access on this link 
+THe website can be access on this link https://rick2stack.github.io/plotly/
